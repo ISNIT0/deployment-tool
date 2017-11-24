@@ -1,0 +1,19 @@
+{
+  "name": "julian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/es6-shim": "^0.31.35",
+    "@types/node": "^8.0.50",
+    "dockerode": "^2.5.3",
+    "express": "^4.16.2",
+    "typescript": "^2.6.1",
+    "virtualbox": "^0.1.3"
+  }
+}
