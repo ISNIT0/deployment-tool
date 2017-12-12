@@ -1,3 +1,18 @@
+# Required
+- NodeJS
+- NPM
+```bash
+> npm i
+> npm i -g ts-node typescript
+```
+
+# Running
+```bash
+# Configure sn-kafka-psuedo-config.ts first
+> ts-node makeItSo.ts
+```
+
+
 # Docs will come soon(ish)
 
 
